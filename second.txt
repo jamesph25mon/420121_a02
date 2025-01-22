@@ -1,2 +1,4 @@
+I added some text to the top.
+
 Here is a second file.
 It's also a great file!
